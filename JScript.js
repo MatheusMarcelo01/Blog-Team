@@ -1,5 +1,5 @@
  
-// Obtém o elemento pelo ID
+//Atualizador automático do ano corrente
 var currentYearElement = document.getElementById('current-year');
 // Obtém o ano atual
 var currentYear = new Date().getFullYear();
