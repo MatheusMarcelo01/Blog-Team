@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tabuleiro de xadrez</title>
+</head>
+<body>
+    <center>
+    <style>
+        .box{
+            width: 150px;
+            height: 150px;
+            border: 1px solid rgb(0, 0, 0);
+            display: inline-block;
+            margin: -2px;
+            font-size: 100px;
+            text-align: center;
+        }
+        .black{
+            background-color: rgb(77, 17, 2);
+            color:white
+        }
+    </style>
+
+
+     <div>
+        <div>
+         <div class="box">&#9820</div>
+         <div class="box black">&#9822</div>
+         <div class="box">&#9821</div>
+         <div class="box black">&#9819</div>
+         <div class="box">&#9818</div>
+         <div class="box black">&#9821</div>
+         <div class="box">&#9822</div>
+        <div class="box black">&#9820</div>
+     </div>
+     <div>
+        <div class="box black">&#9823</div>
+        <div class="box">&#9823</div>
+        <div class="box black">	&#9823</div>
+        <div class="box">&#9823</div>
+        <div class="box black">	&#9823</div>
+        <div class="box">&#9823</div>
+        <div class="box black">&#9823</div>
+        <div class="box">&#9823</div>
+     </div>
+     </div>
+     <div>
+        <div>
+         <div class="box"></div>
+         <div class="box black"></div>
+         <div class="box"></div>
+         <div class="box black"></div>
+         <div class="box"></div>
+         <div class="box black"></div>
+         <div class="box"></div>
+        <div class="box black"></div>
+     </div>
+     <div>
+        <div class="box black"></div>
+        <div class="box"></div>
+        <div class="box black"></div>
+        <div class="box"></div>
+        <div class="box black"></div>
+        <div class="box"></div>
+        <div class="box black"></div>
+        <div class="box"></div>
+     </div>
+     </div>     <div>
+        <div>
+         <div class="box"></div>
+         <div class="box black"></div>
+         <div class="box"></div>
+         <div class="box black"></div>
+         <div class="box"></div>
+         <div class="box black"></div>
+         <div class="box"></div>
+        <div class="box black"></div>
+     </div>
+     <div>
+        <div class="box black"></div>
+        <div class="box"></div>
+        <div class="box black"></div>
+        <div class="box"></div>
+        <div class="box black"></div>
+        <div class="box"></div>
+        <div class="box black"></div>
+        <div class="box"></div>
+     </div>
+     </div>     <div>
+        <div>
+         <div class="box">&#9817</div>
+         <div class="box black">&#9817</div>
+         <div class="box">&#9817</div>
+         <div class="box black">&#9817</div>
+         <div class="box">&#9817</div>
+         <div class="box black">&#9817</div>
+         <div class="box">&#9817</div>
+        <div class="box black">&#9817</div>
+     </div>
+     <div>
+        <div class="box black">&#9814</div>
+        <div class="box">&#9816</div>
+        <div class="box black">&#9815</div>
+        <div class="box">&#9813</div>
+        <div class="box black">&#9812</div>
+        <div class="box">&#9815</div>
+        <div class="box black">&#9816</div>
+        <div class="box">&#9814</div>
+     </div>
+    </center>
+</body>
+</html>
